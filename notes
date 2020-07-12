@@ -1,0 +1,10 @@
+%%%%%%
+%%% How open powershell window
+%%%%%%
+- go to folder, hold SHIFT+right-click, then "open powershell window"
+
+%%%%%%
+%%% How to use git
+%%%%%%
+- get latest version of file
+> git pull
