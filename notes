@@ -1,7 +1,11 @@
 %%%%%%
 %%% How open powershell window
 %%%%%%
+% It is important to go to the acutal "family_site" folder when you do this
 - go to folder D://Websites/family_site, hold SHIFT+right-click, then "open powershell window"
+or
+- bring up the folder in vs code instead of powershell
+
 
 %%%%%%
 %%% How to use git
